@@ -2,40 +2,25 @@
 
 # KERNELX
 
-### Security research · Linux · tools · small programs for real work
+Tools that ship as a zip. Research on the side.
 
-[Website](http://pannki.com) · [GitHub](https://github.com/rairaisaqlain-rgb) · [HireStack](https://github.com/rairaisaqlain-rgb/hirestack) · [FileForge](https://github.com/rairaisaqlain-rgb/fileforge) · [SheetAPI](https://github.com/rairaisaqlain-rgb/sheetapi) · [SlotBook](https://github.com/rairaisaqlain-rgb/slotbook)
-
-<img src="https://img.shields.io/badge/KERNELX-lab-black?style=for-the-badge" />
-<img src="https://img.shields.io/badge/founders-180_days_free-2ea44f?style=for-the-badge" />
-<img src="https://img.shields.io/badge/platform-Windows-0078D6?style=for-the-badge&logo=windows" />
+[pannki.com](https://pannki.com) · [github.com/rairaisaqlain-rgb](https://github.com/rairaisaqlain-rgb)
 
 </div>
 
----
+## Products
 
-## Stack
-
-| Tool | Job | Download |
+| Product | Site | Zip |
 | --- | --- | --- |
-| **HireStack** | ATS resume kit + checker | [hirestack.zip](https://pannki.com/hirestack.zip) |
-| **FileForge** | Browser/desktop file convert | [fileforge.zip](https://pannki.com/fileforge.zip) |
-| **SheetAPI** | Spreadsheet → JSON | [sheetapi.zip](https://pannki.com/sheetapi.zip) |
-| **SlotBook** | Local-service booking page | [slotbook.zip](https://pannki.com/slotbook.zip) |
+| **FileForge** | [github.io/fileforge](https://rairaisaqlain-rgb.github.io/fileforge/) | [fileforge.zip](https://pannki.com/fileforge.zip) |
+| **HireStack** | [github.io/hirestack](https://rairaisaqlain-rgb.github.io/hirestack/) | [hirestack.zip](https://pannki.com/hirestack.zip) |
+| **SheetAPI** | [github.io/sheetapi](https://rairaisaqlain-rgb.github.io/sheetapi/) | [sheetapi.zip](https://pannki.com/sheetapi.zip) |
+| **SlotBook** | [github.io/slotbook](https://rairaisaqlain-rgb.github.io/slotbook/) | [slotbook.zip](https://pannki.com/slotbook.zip) |
 
-Founders cohort: **2026-09-17 → 2027-03-16**. No card on signup.
+Founders cohort: **17 Sep 2026 → 16 Mar 2027**. No card.
 
----
+## How to read this org
 
-## Profile
+These are early public builds, not a 40-star security suite and not four finished SaaS companies. Each repo has a product page, a README that states limits, and a Windows zip on pannki.com.
 
-```
-KERNELX / rairaisaqlain-rgb
-role     : tools + product repos
-focus    : small programs people actually run
-not      : exploit packs, credential dumps, "undetected" loaders
-```
-
----
-
-*Lab page for shipping tools — not a CVE dump.*
+Pin the four product repos on the profile. Do not pin this profile repo.
